@@ -1,0 +1,6 @@
+requests
+pynput
+psutil
+colorama
+pillow
+mss
